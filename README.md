@@ -1,4 +1,10 @@
-### Hi there 👋
+# 👋 Hi there, I am Will Meng 👋 
+📫 How to reach me: 
+<a href="https://www.linkedin.com/in/william-meng-"/>
+<img src="https://img.shields.io/badge/Will Meng-blue?logo=linkedin&logoColor=white"/>
+
+
+
 
 <!--
 **WilMeng/WilMeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
