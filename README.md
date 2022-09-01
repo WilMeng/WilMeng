@@ -4,7 +4,7 @@
 :books: Bachelor of Commerce - Accounting at the University of Guelph <br/>
 :chart_with_upwards_trend: Interested in Economics and Finance <br/>
 :computer: Trying to learn some coding <br/>
-:heart: Passion for F1 :racing_car: basketball :basketball: fitness :running_man: and the markets :dollar: <br/>
+:heart: Passion for cars and F1 :racing_car: | basketball :basketball: | fitness :running_man: | and the markets :dollar: <br/>
 :musical_note: I play piano :musical_keyboard: and guitar :guitar:
 
 📫 How to reach me: 
